@@ -16,7 +16,7 @@ With a background in Architecture and Urban Planning and five years of professio
 
 ## 🔸 Selected Projects
 
-### 🟪 [Utrecht Mobility Hub Analysis](https://github.com/Manoela-Calabresi-Portfolio/Utrecht_Mobility_Hubs)  
+### 🟪 [Utrecht Mobility Hub Analysis](https://github.com/Manoela-Calabresi-Portfolio/Utrecht-Mobility-Hub-Analysis)
 Geospatial analysis of shared mobility and infrastructure gaps in Utrecht using clustering models (UMAP + HDBSCAN), spatial scoring, and public transport accessibility.  
 *Tools: Python · GeoPandas · QGIS · Scikit-learn · UMAP · HDBSCAN*
 
