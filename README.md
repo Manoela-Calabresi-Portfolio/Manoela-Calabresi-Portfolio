@@ -28,12 +28,6 @@ Bootcamp project evaluating whether a new user interface improves user task comp
 
 ---
 
-### 🟪 [Airbnb & Housing Pressure](#) *(Coming soon)*  
-Exploratory data analysis and visualization of Airbnb’s impact on urban housing supply in European cities.  
-*Tools: Python · SQL · Tableau · Flourish*
-
----
-
 ## 🔸 What I Bring
 
 🟧 Experience leading design projects in multicultural teams  
