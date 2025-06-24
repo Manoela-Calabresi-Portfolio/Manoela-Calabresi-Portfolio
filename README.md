@@ -22,7 +22,7 @@ Geospatial analysis of shared mobility and infrastructure gaps in Utrecht using 
 
 ---
 
-### 🟨 [Ombu Urban Lab – AI Research Agent](github.com/Manoela-Calabresi-Portfolio/agent-ombu-urban-lab)
+### 🟨 [Ombu Urban Lab – AI Research Agent](https://github.com/Manoela-Calabresi-Portfolio/agent-ombu-urban-lab))
 A prototype AI assistant for urban planners. Ombu searches, summarizes, and helps formulate spatial hypotheses based on serious sources like reports, strategies, and academic studies. Features include a personal research box, refinement tools, and a Hypothesis Lab.
 Tools: Python · Streamlit · OpenAI API · Pinecone · Tavily API
 
