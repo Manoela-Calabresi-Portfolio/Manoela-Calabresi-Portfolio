@@ -26,6 +26,6 @@ A prototype AI assistant for urban planners. Ombu searches, summarizes, and help
 ---
 
 ### 🟪 [Vanguard A/B Testing – UI Completion Rate](https://github.com/Manoela-Calabresi-Portfolio/Vanguard_Stocks_AB_testing)  
-Bootcamp project eval
+Bootcamp project evaluating whether a new user interface improves user task completion using statistical testing and KPI analysis. Final deliverables included a Tableau dashboard and written report. *Tools: Python · Pandas · Statsmodels · Tableau · Seaborn*
 
 ## 🔸 Contact [LinkedIn](https://www.linkedin.com/in/manoela-calabresi/) 📧 manoela.calabresi@gmail.com 📍 Based in Germany · Open to roles in the Netherlands, Germany and remote.
