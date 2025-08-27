@@ -1,4 +1,4 @@
-# Manoela Calabresi – Urban Planer and & Spatial Analyst  
+# Manoela Calabresi – Urban Planner and & Spatial Analyst  
 
 I turn complex spatial and behavioral data into insights that support better decisions, more inclusive products, and stronger cities.  
 With a background in Architecture and Urban Planning and five years of professional experience in Germany, I now focus on data analysis, machine learning, and geospatial strategy to support impact-driven projects.  
