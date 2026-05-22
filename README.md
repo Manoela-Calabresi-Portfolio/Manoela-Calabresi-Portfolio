@@ -1,4 +1,4 @@
-# Manoela Calabresi — Geospatial Data Engineer & Urban Analyst
+# Manoela Calabresi — Geospatial & Urban Analyst
 
 I build data infrastructure for spatial decision-making — pipelines, databases, and interactive maps that turn raw urban data into actionable intelligence.
 
