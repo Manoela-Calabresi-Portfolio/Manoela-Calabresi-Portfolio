@@ -1,6 +1,6 @@
 # Manoela Calabresi · Portfólio técnico em português-BR
 
-Após atuar em escritórios de arquitetura na Alemanha, fundei a Ombu Lab, iniciativa de inteligência territorial com atuação no Brasil. Este portfólio reúne projetos e casos voltados a mobilidade, análise espacial, infraestrutura de dados territoriais, indicadores censitários e decisão locacional.
+Após atuar em escritórios de arquitetura na Alemanha, fundei a Ombu Lab, iniciativa de inteligência territorial com atuação no Brasil. Este portfólio reúne projetos e casos voltados a mobilidade, análise espacial, infraestrutura de dados territoriais, integração de bases públicas e decisão locacional.
 
 ## Casos principais
 
@@ -37,14 +37,14 @@ Caso de modelagem territorial em escala de cidade para definir submercados urban
 
 ---
 
-### 4. IBGE/SIDRA · indicadores censitários e leitura territorial
+### 4. Camões 172 · inteligência territorial aplicada
 
-Estrutura para descobrir, coletar e organizar tabelas do IBGE/SIDRA e transformá-las em indicadores utilizáveis para análise espacial.
+Sistema geoespacial de ponta a ponta para decisão imobiliária e leitura territorial, integrando zoneamento, mercado, OSM, GeoCuritiba, LiDAR e IBGE/SIDRA.
 
-- resultado principal: base para indicadores de renda, domicílio e escolaridade;
-- foco: integração entre censo, território e infraestrutura analítica.
+- resultado principal: dossiê analítico e sistema de decisão locacional;
+- foco: integração real entre censo, território, mercado e produto.
 
-**Link final do caso:** [IBGE/SIDRA e indicadores territoriais](casos/ibge-sidra.pt-BR.md)
+**Link final do caso:** [README.pt-BR do repositório Camões 172](https://github.com/Manoela-Calabresi-Portfolio/camoes-172-urban-intelligence/blob/main/README.pt-BR.md)
 
 ---
 
@@ -52,7 +52,7 @@ Estrutura para descobrir, coletar e organizar tabelas do IBGE/SIDRA e transform�
 
 - análise de dados secundários;
 - georreferenciamento e análise espacial;
-- uso de bases públicas e censitárias;
+- uso de bases públicas, censitárias e territoriais;
 - mobilidade, acessibilidade e leitura territorial;
 - infraestrutura de dados urbanos;
 - síntese técnica em linguagem acessível.
