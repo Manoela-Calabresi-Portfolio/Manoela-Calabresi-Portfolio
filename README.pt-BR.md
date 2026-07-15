@@ -1,10 +1,10 @@
-# Manoela Calabresi · Portfólio técnico em português-BR
+# Manoela Calabresi · portfólio técnico em português-BR
 
-Após atuar em escritórios de arquitetura na Alemanha, fundei a Ombu Lab, iniciativa de inteligência territorial com atuação no Brasil. Este portfólio reúne projetos e casos voltados a mobilidade, análise espacial, infraestrutura de dados territoriais, integração de bases públicas e decisão locacional.
+Após atuar em escritórios de arquitetura na Alemanha, fundei a Ombu Lab, iniciativa de inteligência territorial com atuação no Brasil. Este portfólio reúne casos voltados a mobilidade, análise espacial, infraestrutura de dados territoriais, integração de bases públicas e decisão locacional.
 
 ## Casos principais
 
-### 1. Utrecht · Hubs de mobilidade e lacunas territoriais
+### 1. Utrecht · hubs de mobilidade e lacunas territoriais
 
 Estudo espacial sobre mobilidade compartilhada, acesso ao transporte público e cobertura territorial na Província de Utrecht.
 
@@ -26,14 +26,14 @@ Pipeline reprodutível para baixar, limpar, padronizar e organizar bases geoespa
 
 ---
 
-### 3. Atlas urbano de Curitiba · submercados e modelagem territorial
+### 3. Atlas urbano de Curitiba · estrutura de mercado e leitura territorial
 
-Caso de modelagem territorial em escala de cidade para definir submercados urbanos a partir de zoneamento, oferta, centralidades e eixos estruturais.
+Caso de leitura territorial em escala de cidade para comparar vendas, estoque e redistribuição de pressão de mercado.
 
-- resultado principal: definição de submercados territoriais;
-- foco: leitura urbana, localização e estrutura analítica auditável.
+- resultado principal: leitura espacial da dinâmica entre absorção histórica e oferta atual;
+- foco: estrutura urbana, evidência territorial e apoio à decisão locacional.
 
-**Link final do caso:** [Atlas urbano de Curitiba](casos/atlas-curitiba.pt-BR.md)
+**Link final do caso:** [README do caso Atlas Curitiba em pt-BR](https://github.com/Manoela-Calabresi-Portfolio/Manoela-Calabresi-Portfolio/blob/main/casos/atlas-curitiba.pt-BR.md)
 
 ---
 

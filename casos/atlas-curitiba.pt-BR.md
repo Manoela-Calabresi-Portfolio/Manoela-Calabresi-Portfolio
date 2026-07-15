@@ -1,60 +1,59 @@
-# Atlas urbano de Curitiba · submercados, pressão e leitura de mercado
+# Atlas urbano de Curitiba · estrutura de mercado e leitura territorial
 
-Caso de modelagem territorial em escala de cidade para definir submercados urbanos, ler pressão de mercado e comparar oferta, centralidades e estrutura urbana em uma mesma base analítica.
+Caso de leitura territorial em escala de cidade para comparar vendas, estoque e redistribuição de pressão de mercado em uma mesma base analítica.
 
 ## O que este caso mostra
 
-- definição de submercados de forma auditável;
-- leitura de pressão territorial e concentração de mercado;
-- comparação entre estrutura urbana, oferta e preço;
-- apoio a decisão locacional e desenvolvimento.
+- leitura territorial de vendas acumuladas;
+- comparação entre estoque atual e histórico de absorção;
+- identificação de deslocamentos espaciais de pressão de mercado;
+- base auditável para leitura urbana e decisão locacional.
 
-## 1. Submercados territoriais
+## 1. Onde mais se vendeu
 
-O atlas organiza a cidade em campos comparáveis, evitando leituras arbitrárias. Os submercados nascem de camadas urbanas, regras territoriais e comportamento de oferta.
+Esta leitura mostra os bairros que lideraram a participação nas vendas acumuladas da cidade. Ela ajuda a localizar os núcleos de absorção histórica e a distinguir centralidades com maior tração de mercado.
 
-![Mapa de submercados territoriais de Curitiba](../assets/atlas-curitiba-submercados.jpg)
+![Mapa de vendas acumuladas por bairro em Curitiba](../assets/atlas-curitiba-onde-mais-se-vendeu.png)
 
-## 2. Pressão territorial
+## 2. Onde está o estoque agora
 
-O atlas não mostra só “onde existe mercado”, mas onde a pressão territorial se concentra. Esse tipo de leitura permite identificar zonas mais tensionadas, deslocamentos de interesse e padrões espaciais de absorção.
+O estoque disponível hoje não replica automaticamente o mapa de vendas históricas. Essa leitura mostra onde a oferta atual se concentra e onde o mercado passou a carregar mais unidades disponíveis.
 
-![Mapa de pressão territorial](../assets/atlas-curitiba-pressao.png)
+![Mapa de estoque atual por bairro em Curitiba](../assets/atlas-curitiba-onde-esta-o-estoque.png)
 
-## 3. Preço e mercados
+## 3. Onde a pressão se redistribuiu
 
-A leitura de preço é feita territorialmente, não apenas como tabela. Isso ajuda a comparar bairros, submercados e relações entre posicionamento, valor e contexto urbano.
+A comparação direta entre vendas históricas e estoque atual permite ver onde a pressão perdeu força, onde se manteve e onde ganhou relevância. O ponto central não é só quanto estoque existe, mas em que bairros ele ficou.
 
-![Mapa de preço e mercados](../assets/atlas-curitiba-preco-mercados.png)
+![Mapa de redistribuição de pressão territorial em Curitiba](../assets/atlas-curitiba-pressao-redistribuiu.png)
 
 ## Como o atlas é construído
 
 ```mermaid
 flowchart LR
-    A[Zoneamento] --> E[Modelo territorial]
-    B[Oferta e mercado] --> E
-    C[Centralidades e eixos] --> E
-    D[Cadastro e licenciamento] --> E
-    E --> F[Submercados]
-    E --> G[Pressão e preço]
-    F --> H[Leitura locacional]
-    G --> H
+    A[Vendas acumuladas] --> E[Leitura territorial]
+    B[Estoque atual] --> E
+    C[Base cartográfica] --> E
+    D[Regras de comparação] --> E
+    E --> F[Mapa de vendas]
+    E --> G[Mapa de estoque]
+    E --> H[Mapa de redistribuição]
 ```
 
 ## Bases utilizadas
 
-- zoneamento;
-- cadastro e licenciamento;
-- oferta urbana e mercado;
-- centralidades, eixos e estrutura territorial.
+- base cartográfica oficial de bairros;
+- vendas acumuladas em janela móvel;
+- snapshot de estoque atual;
+- métricas territoriais derivadas para comparação.
 
 ## Entregas
 
-- definição de submercados;
-- leitura de pressão territorial;
-- comparação espacial de preço e mercado;
-- base analítica em PostGIS;
-- camadas derivadas para mapas e leitura editorial.
+- mapa de vendas acumuladas;
+- mapa de concentração de estoque atual;
+- mapa comparativo de redistribuição de pressão;
+- base analítica territorial pronta para leitura editorial;
+- evidências espaciais para decisão e comunicação pública.
 
 ## Ferramentas
 
